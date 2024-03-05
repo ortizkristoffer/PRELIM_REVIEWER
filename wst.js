@@ -255,7 +255,7 @@ const questions = [
     question: "It is a way to group a set of related items in HTML.",
     answers: [
       { text: "Span", correct: false},
-      { text: "Link", correct: true},
+      { text: "List", correct: true},
       { text: "Navigation", correct: false},
       { text: "Text Fields", correct: false},
     ]
