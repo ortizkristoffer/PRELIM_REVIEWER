@@ -198,7 +198,7 @@ const questions = [
     ]
   },
   {
-    question: "Container for metadata (data about data) which is placed between the <html> and the <body> tags",
+    question: "Container for metadata (data about data) which is placed between the >html< and the >body< tags",
     answers: [
       { text: "body", correct: false},
       { text: "title", correct: false},
