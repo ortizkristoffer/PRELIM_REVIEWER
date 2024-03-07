@@ -1,5 +1,70 @@
 const questions = [
   {
+	question: "The growth of mobile digital business platforms based on smartphones and tablet computers, Big Data, and business analytics, and the use of social networks by managers to achieve business objectives",
+	answers: [
+		{text: "It Innovation", correct: true}
+		{text: "E-Commerce Expanding", correct: false}
+		{text: "Changes in firms and organizations", correct: false}
+		{text: "New business model", correct: false}
+	]
+},
+{
+	question: "The emergence of online video streaming services like Netflix, Apple TV, Amazon’s Prime Video, and many others for downloading video has forever changed how premium video is distributed and created.",
+	answers: [
+		{text: "It Innovation", correct: false}
+		{text: "E-Commerce Expanding", correct: false}
+		{text: "Changes in firms and organizations", correct: false}
+		{text: "New business model", correct: true}
+	]
+},
+{
+	question: "It has reinvented itself, disrupting the traditional marketing and advertising industry and putting major media and content firms in jeopardy",
+	answers: [
+		{text: "Management changes", correct: false}
+		{text: "E-Commerce Expanding", correct: true}
+		{text: "Changes in firms and organizations", correct: false}
+		{text: "New business model", correct: false}
+	]
+},
+{
+	question: "Changing how firms design, produce, and deliver their products and services",
+	answers: [
+		{text: "Management changes", correct: false}
+		{text: "E-Commerce Expanding", correct: true}
+		{text: "Changes in firms and organizations", correct: false}
+		{text: "New business model", correct: false}
+	]
+},
+{
+	question: "With new mobile smartphones, highwireless Wi-Fi network, and tablets, remote salespeople on the road are only seconds away from their managers’ questions and oversight.",
+	answers: [
+		{text: "Management changes", correct: true}
+		{text: "E-Commerce Expanding", correct: false}
+		{text: "Changes in firms and organizations", correct: false}
+		{text: "New business model", correct: false}
+	]
+},
+{
+	question: "New, fast-going 21st-century business firms put less emphasis on hierarchy and structure and more emphasis on employees.",
+	answers: [
+		{text: "Management changes", correct: false}
+		{text: "E-Commerce Expanding", correct: false}
+		{text: "Changes in firms and organizations", correct: true}
+		{text: "New business model", correct: false}
+	]
+},
+{
+	question: "An actual prototype is designed based on the information gathered from the design phase.",
+	answers: [
+		{text: "Management changes", correct: false}
+		{text: "E-Commerce Expanding", correct: false}
+		{text: "Changes in firms and organizations", correct: true}
+		{text: "New business model", correct: false}
+	]
+},
+
+
+  {
     question: "A number, statement, image, or video that may represent specific data",
     answers: [
       { text: "Information", correct: false},
