@@ -1,5 +1,23 @@
 const questions = [
   {
+    question: "Who is King Shahryar",
+    answers: [
+      {text: "Antogonist", correct: true}
+      {text: "Protagonist", correct: false}
+      {text: "Supporting Actor", correct: false}
+      {text: "Writer", correct: false}
+    ]
+  },
+  {
+    question: "Who is Scheherazade",
+    answers: [
+    	{text: "Antagonist", correct: false}
+    	{text: "Protagonist", correct: true}
+    	{text: "Supporting Actor", correct: false}
+    	{text: "Writer", correct: false}
+    ]
+  },
+  {
     question: "These are the styles, systems, and practices in decoding symbols for better comprehension in communication, sharing of information and ideas.",
     answers: [
       { text: "Decoding", correct: false},
