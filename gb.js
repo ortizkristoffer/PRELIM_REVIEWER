@@ -2,19 +2,19 @@ const questions = [
   {
     question: "Who is King Shahryar",
     answers: [
-      {text: "Antogonist", correct: true}
-      {text: "Protagonist", correct: false}
-      {text: "Supporting Actor", correct: false}
-      {text: "Writer", correct: false}
+      {text: "Antogonist", correct: true},
+      {text: "Protagonist", correct: false},
+      {text: "Supporting Actor", correct: false},
+      {text: "Writer", correct: false},
     ]
   },
   {
     question: "Who is Scheherazade",
     answers: [
-    	{text: "Antagonist", correct: false}
-    	{text: "Protagonist", correct: true}
-    	{text: "Supporting Actor", correct: false}
-    	{text: "Writer", correct: false}
+    	{text: "Antagonist", correct: false},
+    	{text: "Protagonist", correct: true},
+    	{text: "Supporting Actor", correct: false},
+    	{text: "Writer", correct: false},
     ]
   },
   {
