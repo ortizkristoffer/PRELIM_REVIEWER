@@ -72,7 +72,7 @@ const questions = [
     ]
   },
   {
-    question: "It consists of table cells that allow web developers to organize and arrange data into rows and columns. It uses <table> tag.",
+    question: "It consists of table cells that allow web developers to organize and arrange data into rows and columns. It uses >table< tag.",
     answers: [
       { text: "HTML Table", correct: true},
       { text: "HTML Elements", correct: false},
