@@ -228,23 +228,23 @@ const questions = [
 {
     question: "<_______> is a element is the root element of the AndroidManifest.xml file.",
     answers: [
-      { text: "application", correct: false},
-      { text: "manifest", correct: true},
-      { text: "activiy", correct: false},
-      { text: "intent", correct: false},
+      { text: ">application<", correct: false},
+      { text: ">manifest<", correct: true},
+      { text: ">activiy<", correct: false},
+      { text: ">intent<", correct: false},
     ]
   },
 {
     question: "<_______> is a element contains sub-elements that declare each of the application's components and has attributes that can affect all the components.",
     answers: [
-      { text: "application", correct: true},
-      { text: "manifest", correct: false},
-      { text: "activiy", correct: false},
-      { text: "intent", correct: false},
+      { text: ">application<", correct: true},
+      { text: ">manifest<", correct: false},
+      { text: ">activiy<", correct: false},
+      { text: ">intent<", correct: false},
     ]
   },
 {
-    question: "The required elements in the manifest file are <manifest> and <application>, which should occur only once.",
+    question: "The required elements in the manifest file are >manifest< and >application<, which should occur only once.",
     answers: [
       { text: "True", correct: true},
       { text: "False", correct: false},
@@ -253,7 +253,7 @@ const questions = [
     ]
   },
   {
-    question: "The <application> element must be the first element inside the <manifest> element",
+    question: "The >application< element must be the first element inside the >manifest< element",
     answers: [
       { text: "True", correct: false},
       { text: "False", correct: true},
@@ -264,28 +264,28 @@ const questions = [
   {
     question: "<_______> is a element specifies the types of intents that an activity, service, or broadcast receiver can respond to.",
     answers: [
-      { text: "application", correct: false},
-      { text: "manifest", correct: false},
-      { text: "intent-filter", correct: true},
-      { text: "intent", correct: false},
+      { text: ">application<", correct: false},
+      { text: ">manifest<", correct: false},
+      { text: ">intent-filter<", correct: true},
+      { text: ">intent<", correct: false},
     ]
   },
 {
     question: "<_______> element adds an action to an intent filter.",
     answers: [
-      { text: "action", correct: true},
-      { text: "manifest", correct: false},
-      { text: "intent-filter", correct: false},
-      { text: "category", correct: false},
+      { text: ">action<", correct: true},
+      { text: ">manifest<", correct: false},
+      { text: ">intent-filter<", correct: false},
+      { text: ">category<", correct: false},
     ]
   },
   {
     question: "<_______> elements that adds a category name to an intent filter. ",
     answers: [
-      { text: "action", correct: false},
-      { text: "manifest", correct: false},
-      { text: "intent-filter", correct: false},
-      { text: "category", correct: true},
+      { text: ">action<", correct: false},
+      { text: ">manifest<", correct: false},
+      { text: ">intent-filter<", correct: false},
+      { text: ">category<", correct: true},
     ]
   },
 ];
