@@ -1,6 +1,55 @@
 
 const questions = [
   {
+   question: "The icon and label that are set in the >application< element are the default icon and label for each of the app's components.",
+   answers: [
+     {text: "True", correct: true},
+     {text: "False", correct: false},
+     {text: "Maybe", correct: false},
+     {text: "Ata?", correct: false},
+   ]
+  },
+
+{
+question: "The permissions that the app needs in order to access protected parts of the system or other app.",
+answers: [
+ {text: "True", correct: true},
+ {text: "False", correct: false},
+ {text: "Maybe", correct: false},
+ {text: "Ata?", correct: false},
+]
+},
+
+{
+question: "<______> for each subclass of BroadcastReceiver",
+answers: [
+ {text: ">service<", correct: false},
+ {text: ">receiver<", correct: true},
+ {text: ">provider<", correct: false},
+ {text: ">activity", correct: false},
+]
+},
+
+{
+question: "<______> for each subclass of ContentProvider",
+answers: [
+ {text: ">service<", correct: false},
+ {text: ">receiver<", correct: false},
+ {text: ">provider<", correct: true},
+ {text: ">activity", correct: false},
+]
+  },
+
+  {
+    question: "The grant that the app needs in order to access protected parts of the system or other app.",
+    answers: [
+     {text: "True", correct: false},
+     {text: "False", correct: true},
+     {text: "Maybe", correct: false},
+     {text: "Ata?", correct: false},
+    ]
+  },
+  {
     question: "A mobile app user can access and share information anytime or anywhere.",
     answers: [
       { text: "Personalization", correct: false},
